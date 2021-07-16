@@ -1,4 +1,5 @@
 # introduzco primera linea de texto para generar cambio
+# introduzco segunda linea de texto para generar cambio
 
 # Librerias ---------------------------------------------------------------
 library(devtools)
