@@ -1,6 +1,7 @@
 # introduzco primera linea de texto para generar cambio
 # introduzco segunda linea de texto para generar cambio
 # introduzco tercera linea de texto para generar cambio
+# introduzco cuarta linea de texto para generar cambio
 # Librerias ---------------------------------------------------------------
 library(devtools)
 # Cuando instalamos la librería, marcamos la linea de codigo con "#" para no
